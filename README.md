@@ -1,15 +1,3 @@
-Claude
-
-
-
-
-
-
-
-
-
-
-
 Bangun datar ajaib · HTML
 <!DOCTYPE html>
 <html lang="id">
